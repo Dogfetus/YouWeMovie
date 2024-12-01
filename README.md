@@ -55,7 +55,7 @@ The repository is organized as follows:
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/YouWeMovie.git
+   git clone https://github.com/Dogfetus/YouWeMovie.git
    ```
 2. Set up the database:
    - Import the provided schema from the `database` folder.
